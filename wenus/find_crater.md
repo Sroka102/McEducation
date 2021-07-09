@@ -13,8 +13,8 @@ Kiedy Agent **wykryje blok w dół**, ma się przesuwać do przodu. Jeśli Agent
 
 
 ```template
-player.onChat("krater", function () {
-            player.say("Znalazłem krater!")
+player.onChat("crater", function () {
+            player.say("Crater found!")
 })
 ```
 ```ghost
