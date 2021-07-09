@@ -8,7 +8,7 @@
 # Surroundings 
 
 ## Step 1
-Kiedy Agent **wykryje blok w dół**, ma się przesuwać do przodu. Jeśli Agent **skontroluje blok w dół** i wykryje **powietrze**, wtedy niech użyje  komendy ``||gracz:powiedz||`` i powie **Znalazłem krater!**. 
+While the Agent **detects the block down**, it needs to move forward. If the Agent **inspects the block down** and finds **air**, then use ``||player:say||`` command to say **Crater found!**. 
 
 
 
