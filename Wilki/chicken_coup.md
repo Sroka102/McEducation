@@ -8,10 +8,10 @@
 # Chicken Coup
 
 ## Step 1
-Agent musi umieścić **2** warstwy po **9** bloków **żelaznej kraty** w każdej. Wszystkie **4** ściany muszą być wykonane z **żelaznej kraty**. Nie zapomnij użyć komendy``||agent:agent przsuń w górę||``przed zbudowaniem drugiego poziomu.
+Agent musi umieścić **2** warstwy po **9** bloków **żelaznej kraty** w każdej. Wszystkie **4** ściany muszą być wykonane z **żelaznej kraty**. Nie zapomnij użyć komendy``||agent:agent przesuń w górę||``przed zbudowaniem drugiego poziomu.
 
 #### ~ tutorialhint
-Końcowy kod będzie miał **3** komendy ``||pętle:powtórz|`` zagnieżdzone jedna w drugiej. Upewnij się, że Agent będzie miał więcej niż 64 bloki w swoim ekwipunku!
+Końcowy kod będzie miał **3** komendy ``||pętle:powtórz|`` zagnieżdżone jedna w drugiej. Upewnij się, że Agent będzie miał więcej niż 64 bloki w swoim ekwipunku!
 
 ```ghost
 player.onChat("chicken", function () {
