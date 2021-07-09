@@ -8,7 +8,7 @@
 # Locate the Sample! 
 
 ## Step 1
-**Dpouki** Agent **skontroluje blok w dole** i **nie** znajdzie **niebieskiego lodu**, ma wykonać **zniszcz w dół** i **przesuń w dół**. Kiedy Agent znajdzie **niebieski lód**, ma go **zniszczyć dół** i **zebrać** próbki. 
+**Dopuki** Agent **skontroluje blok w dole** i **nie** znajdzie **niebieskiego lodu**, ma wykonać **zniszcz w dół** i **przesuń w dół**. Kiedy Agent znajdzie **niebieski lód**, ma go **zniszczyć dół** i **zebrać** próbki. 
 
 ```ghost 
 player.onChat("ice", function () {
