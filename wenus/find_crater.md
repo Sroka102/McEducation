@@ -11,8 +11,8 @@
 Kiedy Agent **wykryje blok w dół**, ma się przesuwać do przodu. Jeśli Agent **skontroluje blok w dół** i wykryje **powietrze**, wtedy niech użyje komendy ``||gracz:powiedz||`` i powie **Znalazłem krater!**. 
 
 ```template
-player.onChat("crater", function () {
-            player.say("Crater found!")
+player.onChat("krater", function () {
+            player.say("Znalazłem krater!")
 })
 ```
 ```ghost
