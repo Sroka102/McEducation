@@ -1,0 +1,31 @@
+{
+    "name": "McEducation",
+    "version": "8.0.2",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "Wilki/cattle.md",
+        "Wilki/chicken_coup.md",
+        "Wilki/clear_area.md",
+        "Wilki/hazing.md",
+        "Wilki/hazing_one.md",
+        "Wilki/hazing_two.md",
+        "wenus/find_crater.md",
+        "wenus/find_surface.md",
+        "wenus/gathering.md",
+        "wenus/help_agent.md",
+        "wenus/locate_sample.md",
+        "main.ts",
+        "no_coding.md"
+    ],
+    "targetVersions": {
+        "target": "1.6.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
