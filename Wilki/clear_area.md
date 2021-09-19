@@ -11,7 +11,7 @@
 Agent musi zniszczyć **8** bloków z liści przesówając się **do przodu**. Wszystkich rzędów, które Agent musi oczyścić jest **16**. Agent potrzebuje komend ``||agent:znisz do przodu||`` i ``||agent:przesuń do przodu||`` **8** razy. 
 #### ~ tutorialhint 
 ```blocks
-player.onChat("foliage", function () {
+player.onChat("run", function () {
     for (let index = 0; index < 8; index++) {
         for (let index = 0; index < 8; index++) {
         	
