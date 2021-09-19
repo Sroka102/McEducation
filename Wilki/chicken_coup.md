@@ -5,13 +5,13 @@
 ### @explicitHints 1
 
 
-# Chicken Coup
+# Zagroda dla kurczaków
 
 ## Step 1
-Agent musi umieścić **2** warstwy po **9** bloków **żelaznej kraty** w każdej. Wszystkie **4** ściany muszą być wykonane z **żelaznej kraty**. Nie zapomnij użyć komendy``||agent:agent przesuń w górę||``przed zbudowaniem drugiego poziomu.
+Agent musi wybudować **2** warstwy ogrodzenia z **żelaznej kraty**. Każda warstwa to kwadrat o boku długości **9** bloków. Nie zapomnij użyć komendy``||agent:agent przesuń w górę||``przed zbudowaniem drugiego poziomu.
 
 #### ~ tutorialhint
-Końcowy kod będzie miał **3** komendy ``||loops:powtórz|`` zagnieżdżone jedna w drugiej. Upewnij się, że Agent będzie miał więcej niż 64 bloki w swoim ekwipunku!
+Końcowy kod będzie miał **3** komendy ``||loops:powtórz|`` zagnieżdżone jedna w drugiej. Upewnij się, że Agent będzie miał wystarczającą ilośc bloków w swoim ekwipunku. Do wybudowania całości potrzeba więcej niż 64 bloki żelaznej kraty!
 
 ```ghost
 player.onChat("chicken", function () {
