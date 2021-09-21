@@ -6,10 +6,10 @@
 ### @explicitHints 1
 
 
-# Zaprogramuj Agenta, aby przesuną się w gurę na złotą płytę!
+# Zaprogramuj Agenta, aby przesuna sie w gure na zlota plytę!
 
 ## Step 1
-Użyj polecenia``||player:przy poleceniu czatu||`` i  ``||agent:agent przesuń||`` abny zaprogramować Agenta tak, aby poruszał się w kierunku złotej płyty. Możesz zaprogramować Agenta, aby się poruszał w **górę**.  Następnie naciśnij zielony przycisk **Play** aby skompilować kod, przejdź do Minecrafta i uruchom program w grze.
+Uzyj polecenia``||player:przy poleceniu czatu||`` i  ``||agent:agent przesun||`` aby zaprogramowac Agenta tak, aby poruszal sie w kierunku zlotej plyty. Mozesz zaprogramowac Agenta, aby poruszal sie w **gore**.  Nastepnie nacisnij zielony przycisk **Play** aby skompilowac kod, przejdz do Minecrafta i uruchom program w grze.
 
 
 
