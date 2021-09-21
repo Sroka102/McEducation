@@ -9,10 +9,10 @@
 # Program the Agent to move to the gold plate!
 
 ## Step 1
-Select an ``||player:on chat||`` command and rename it from **run** to **1**. Select an ``||agent: agent move forward||`` block and drag it inside the ``||player:on chat||`` command. Change the **number** of steps the Agent moves to **3**, so that Agent can reach the gold plate. When done, press the **Play** button to compile the code, then go to Minecraft, press **t** and type **1**.
+Wybierz polecenie ``||player:przy poleceniu czatu||`` i zmień nazwę z **run** na **1**. Wybierz blok polecenia``||agent: agent przesuń do przodu||`` i przeciągnij go do środka bloku polecenia``||player:przy poleceniu czatu||``. Zmień **liczbę** kroków Agenta na **3**, aby Agent mógł dotrzeć do złotej płyty. Następnie naciśnij zielony przycisk **Play** aby skompilować kod, przejdź do Minecrafta, naciśnij **t** , wpisz **1** i zatwierdź.
 
 #### ~ tutorialhint 
-You can change the number of steps your Agent will move by changing the number inside the ``||agent: agent move||`` block. You also can use an ``||agent: agent turn||`` block to turn the Agent to the left or right.
+Możesz zmienić liczbę kroków, które wykona Twój agent, zmieniając liczbę w bloku ``||agent: agent przesuń||`` . Możesz również użyć bloku ``||agent: agent obruć||`` obrócić Agenta w lewo lub w prawo.
 
 
 
