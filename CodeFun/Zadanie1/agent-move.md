@@ -9,10 +9,10 @@
 # Program the Agent to move to the gold plate!
 
 ## Step 1
-Wybierz polecenie  ``||player: przy poleceniu czatu||``  i zmien nazwe z **run** na **1**. Wybierz blok polecenia  ``||agent: agent przesun do przodu||``  i przeciagnij go do srodka bloku polecenia  ``||player: przy poleceniu czatu||``  . Zmien **liczbe** krokow Agenta na **3**, aby Agent mogl dotrzec do zlotej plyty. Nastepnie nacisnij zielony przycisk **Play** i uruchom kod w grze.
+Wybierz polecenie  ``||player: przy poleceniu czatu||``  i zmień nazwę z **run** na **1**. Wybierz blok polecenia  ``||agent: agent przesuń do przodu||``  i przeciągnij go do środka bloku polecenia  ``||player: przy poleceniu czatu||``  . Zmień **liczbę** krokoów Agenta na **3**, aby Agent mógł dotrzeć do złotej płyty. Następnie naciśnij zielony przycisk **Play** i uruchom kod w grze.
 
 #### ~ tutorialhint 
-Mozesz zmienic liczbe krokow, ktore wykona Twoj agent, zmieniajac liczbe w bloku  ``||agent: agent przesun||``  . Mozesz rowniez uzyc bloku  ``||agent: agent obruc||``  aby obrocic Agenta w lewo lub w prawo.
+Możesz zmienić liczbę kroków, które wykona Twój agent, zmieniajać liczbę w bloku  ``||agent: agent przesuń||``  . Możesz również użyć bloku  ``||agent: agent obruć||``  aby obrocić Agenta w lewo lub w prawo.
 
 
 
