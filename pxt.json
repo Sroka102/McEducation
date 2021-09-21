@@ -17,6 +17,11 @@
         "wenus/gathering.md",
         "wenus/help_agent.md",
         "wenus/locate_sample.md",
+        "CodeFun/Zadanie1/agent.md",
+        "CodeFun/Zadanie1/agent-move.md",
+        "CodeFun/Zadanie1/agent-up.md",
+        "CodeFun/Zadanie1/last-room.md",
+        "CodeFun/Zadanie1/welcome.md",
         "main.ts",
         "no_coding.md"
     ],
