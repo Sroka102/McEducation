@@ -8,7 +8,7 @@
 # Hazing 
 
 ## Step 1
-Aby wilki tu nie dotarły, Agent musi rozciągnąć **linkę potykacza** między uchwytami. Ustaw w komendzie ``||agent:umieść blok lub przedmiot||`` **linka potykacza** i ustaw ilość na **64**. Użyj ``||pętle:dopuki||`` i umieść w niej warunek.  
+Aby wilki tu nie dotarły, Agent musi rozciągnąć **linkę potykacza** między uchwytami. Ustaw w komendzie ``||agent:umieść blok lub przedmiot||`` **linka potykacza** i ustaw ilość na **64**. Użyj ``||pętle:dopóki||`` i umieść w niej warunek.  
 
 #### ~ tutorialhint
 Pamiętaj aby użyć **nie** w warunku pętli. 
