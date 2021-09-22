@@ -20,9 +20,9 @@
         "CodeFun/Readme.md",
         "CodeFun/A/Readme.md",
         "CodeFun/A/agent.md",
-        "CodeFun/A/agent_move.md",
-        "CodeFun/A/agent_up.md",
-        "CodeFun/A/last_room.md",
+        "CodeFun/A/agentMove.md",
+        "CodeFun/A/agentUp.md",
+        "CodeFun/A/lastRoom.md",
         "CodeFun/A/welcome.md",
         "main.ts",
         "no_coding.md"
