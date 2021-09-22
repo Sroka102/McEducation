@@ -10,7 +10,7 @@
 Ustaw w komendzie``||agent:umieść blok lub przedmiot||`` **linka potykacza** i ustaw ilość na **64**. 
 
 ## Step 2
-Użyj ``||pętle:dopuki||`` i umieść z nim odpowiedni blok warunku.  
+Użyj ``||pętle:dopóki||`` i umieść z nim odpowiedni blok warunku.  
 
 #### ~ tutorialhint
 
