@@ -1,0 +1,1 @@
+Translation for education purposes.
